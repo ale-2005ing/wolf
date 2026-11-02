@@ -1,0 +1,11 @@
+# Logs y temporales del sistema
+.DS_Store
+Thumbs.db
+*.log
+
+# Entornos de desarrollo / IDEs
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
